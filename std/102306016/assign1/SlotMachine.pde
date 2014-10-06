@@ -3,7 +3,7 @@ class SlotMachine{
   int initY = 200;
   int m=3, n=1;
   int [] fruitNumbers = {0,1,2,3,4,5};
-  int [] fruitScores = {0,10,20,30,40,50};
+  int [] fruitScores = {60,10,20,30,40,50};
   Fruit [] fruits; 
   Fruit [][] animatedSlots;  // this one is for animation
   Fruit [][] slots;          // this one is for assignment use,
